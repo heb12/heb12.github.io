@@ -10,11 +10,12 @@ body {
 }
 
 header {
-  width: 100%;
+  max-width: 100%;
   padding: 10px;
   color: white;
   box-shadow: 0px 1px 10px grey;
   background-color: #17bdef;
+  margin: 0;
 }
 header img {
   height: 30px;
@@ -22,8 +23,13 @@ header img {
   position: relative;
   top: 5px;
 }
+header span a {
+  color: white;
+  text-decoration: none;
+}
 
 
 #wrapper {
   padding: 5px 10px;
+  margin: 0;
 }
