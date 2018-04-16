@@ -9,7 +9,7 @@ body {
   font-weight: bold;
 }
 
-header {
+header, footer {
   max-width: 100%;
   padding: 10px 10%;
   color: white;
@@ -27,9 +27,20 @@ header span a {
   color: white;
   text-decoration: none;
 }
-
+footer {
+  box-shadow: 0 0 0;
+  padding: 5px 10%;
+}
 
 #wrapper {
   padding: 5px 10%;
   margin: 0;
+}
+
+a {
+  color: #008fba;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
