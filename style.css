@@ -47,3 +47,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+code {
+    color: red;
+    background-color: lightgray;
+    padding: 2px;
+}
