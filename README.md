@@ -12,7 +12,7 @@ Welcome to the new website for Heb12. Our goal is to make a usable cross-platfor
 
 Some of those will require a lot of work and perserverance. We probably will not be able to finish them all, but we will at least make a desktop program and an online version. It would be great if we had a backend, and that will come next.
 
-We are a team of a couple programmers. AmazingMech2418 and MasterOfTheTiger. The latter started the project, but the former joined recently and has been very influential in the development, especially with the online version.
+We are a team of [few programmers](members). The latter started the project, but the former joined recently and has been very influential in the development, especially with the online version.
 
 Our apps will always be free (libre) and open source programs. Which means that anyone can view the code, help improve it, make their own version of it, and distribute either their own version or ours. The reason we do this is because we don't want to have control over your app. We give it to you and give you the freedom to do what you want to do with it. We do not spy on you, we do not restrict what you can do with the program, etc.
 
