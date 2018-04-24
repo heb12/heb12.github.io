@@ -28,4 +28,4 @@ The .AppImage file can be run on all Linux distributions.
 
 The Snap package can be installed on any distribution with the `snapd` package installed. There are some benefits for using it. You get automatic updates, and you can choose to install it from different channels. The edge channel gets updated every time we improve the code (which can be unstable!), the beta channel gets updated for every release that is not quite done. The normal channel (stable) is the official releases of the program.
 
-Install the program via Snap by running this: `sudo snap install heb12 --beta`
+Install the program via Snap by running this: `sudo snap install heb12 --beta`.
