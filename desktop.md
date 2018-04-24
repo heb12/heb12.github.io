@@ -1,7 +1,7 @@
 # Heb12 Desktop
 Heb12 Desktop is a program for Windows and Linux that allows you to easily read the Bible on your computer.
 
-![Heb12 Desktop Screenshot](heb12.ml/img/example1.png "test")
+![Heb12 Desktop Screenshot](http://heb12.ml/img/example1.png "test")
 
 It is currently under development and there is no official release yet. The first version (1.0) will be released in the last two weeks of April 2018.
 
