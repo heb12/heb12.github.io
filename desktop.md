@@ -1,9 +1,28 @@
 # Heb12 Desktop
 Heb12 Desktop is a program for Windows and Linux that allows you to easily read the Bible on your computer.
 
-![Heb12 Desktop Screenshot](http://heb12.ml/img/example1.png "test")
+![Heb12 Desktop Screenshot](img/example1.png "Heb12 Desktop opened to Hebrews chapter 12")
 
 It is currently under development and there is no official release yet. The first version (1.0) will be released in the last two weeks of April 2018.
+
+## Screenshots
+Here are some screenshots of Heb12 Desktop.
+
+### Normal Theme
+Reader mode:
+![Heb12 Desktop Screenshot normal](img/example2.png "Heb12 Desktop opened to Hebrews chapter 8")
+Info screen:
+![Heb12 Desktop info screen screenshot](img/example-info.png "Heb12 Desktop info screen")
+Settings screen:
+![Heb12 Desktop settings screen screenshot](img/example-settings.png "Heb12 Desktop settings screen")
+
+### Dark Theme
+Reader mode
+![Heb12 Desktop Screenshot dark mode](img/example-dark.png "Heb12 Desktop opened to Hebrews chapter 4 in dark mode with verse 12 highlighted")
+Info screen:
+![Heb12 Desktop info screen dark mode screenshot](img/example-dark-info.png "Heb12 Desktop info screen dark mode")
+Settings Screen:
+![Heb12 Desktop settings screen dark mode screenshot](img/example-dark-settings.png "Heb12 Desktop settings screen dark mode")
 
 ## Install
 We currently have pre-release versions of Heb12 Desktop available for those that want it.
