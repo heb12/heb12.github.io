@@ -6,6 +6,7 @@ Heb12 Desktop is a program for Windows and Linux that allows you to easily read 
 It is currently under development and there is no official release yet. The first version (1.0) will be released in the last two weeks of April 2018.
 
 ## Install
+We currently have pre-release versions of Heb12 Desktop available for those that want it.
 
 ### Windows
 [Download the Windows version of Heb12](https://drive.google.com/open?id=1DVAs3tqKXHSrvxKar7DlOyPex3PCiVDb).
