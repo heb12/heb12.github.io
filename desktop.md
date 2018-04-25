@@ -10,29 +10,33 @@ Here are some screenshots of Heb12 Desktop.
 
 ### Normal Theme
 
-Reader mode:
+Here are some screenshots of the default theme of Heb12 Desktop.
+
+#### Reader mode
 
 ![Heb12 Desktop Screenshot normal](img/example2.png "Heb12 Desktop opened to Hebrews chapter 8")
 
-Info screen:
+#### Info screen
 
 ![Heb12 Desktop info screen screenshot](img/example-info.png "Heb12 Desktop info screen")
 
-Settings screen:
+#### Settings screen
 
 ![Heb12 Desktop settings screen screenshot](img/example-settings.png "Heb12 Desktop settings screen")
 
 ### Dark Theme
 
-Reader mode:
+Here are some screenshots of the dark theme of Heb12 Desktop.
+
+#### Reader mode
 
 ![Heb12 Desktop Screenshot dark mode](img/example-dark.png "Heb12 Desktop opened to Hebrews chapter 4 in dark mode with verse 12 highlighted")
 
-Info screen:
+#### Info screen
 
 ![Heb12 Desktop info screen dark mode screenshot](img/example-dark-info.png "Heb12 Desktop info screen dark mode")
 
-Settings Screen:
+#### Settings Screen
 
 ![Heb12 Desktop settings screen dark mode screenshot](img/example-dark-settings.png "Heb12 Desktop settings screen dark mode")
 
