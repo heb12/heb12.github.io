@@ -1,6 +1,9 @@
 # Heb12 Bible Apps
 A project to make a usable cross-platform Bible system.
 
+Hebrews 4:12:
+  For the word of God is living and active and sharper than any double-edged sword, piercing even to the point of dividing soul from spirit, and joints from marrow; it is able to judge the desires and thoughts of the heart.
+
 ## About Us
 Welcome to the new website for Heb12. Our goal is to make a usable cross-platform Bible system. It will be difficult, but here are our plans.
 
