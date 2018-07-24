@@ -22,9 +22,9 @@ Our apps will always be free (libre) and open source programs. Which means that 
 Most importantly, we want the programs to honor Jesus through the work we do. Jesus gave us our talents, and we are using them to honor Him.
 
 ## Use our Products
-You can try out our [online alpha](https://heb12.ml/heb12) if you want. It does not work very well and we are putting a lot of work into making it operational.
+You can try out our [online alpha](http://mott.x10host.com/heb12/bible.php) if you want. It is the project that we are currently working on.
 
-Go to the [Heb12 desktop](desktop) page for more information on the desktop program.
+Go to the [Heb12 desktop](desktop) page for more information on the desktop program. 
 
 ## Stay Updated
 Here are some ways you can stay updated with the development of our apps.
@@ -33,13 +33,13 @@ Here are some ways you can stay updated with the development of our apps.
 We have a [GitHub](https://github.com/heb12) setup for our apps. It is where we work and talk about the program. Here you can view the development of the program, study the documentation, and even help us if you want.
 
 ### GitLab
-We are also on [GitLab](https://gitlab.com/heb12), We will create any new projects there (current ones will stay on GitHub for the time being). 
+We are also on [GitLab](https://gitlab.com/heb12), We will create any new projects there (current ones will stay on GitHub for the time being).
 
 ### Twitter
 MasterOfTheTiger often posts information about the progress of the program on Twitter. You can follow [MasterOfTheTiger on Twitter](https://twitter.com/MasterOTheTiger) or follow the tag #heb12.
 
 ### Diaspora*
-[Heb12 is on Diaspora](https://diasp.org/u/heb12). There we post updates on the progress of Heb12 more often than on any other platform. Either follow Heb12 on Diaspora, or follow the tag #heb12. 
+[Heb12 is on Diaspora](https://diasp.org/u/heb12). There we post updates on the progress of Heb12 more often than on any other platform. Either follow Heb12 on Diaspora, or follow the tag #heb12.
 
 ### Gitter
 You can talk about Heb12 on [our Gitter chatroom](https://gitter.im/heb12/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link). We also will work on development there.
