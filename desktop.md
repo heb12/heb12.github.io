@@ -44,17 +44,16 @@ Here are some screenshots of the dark theme of Heb12 Desktop.
 We currently have pre-release versions of Heb12 Desktop available for those that want it.
 
 ### Windows
-[Download the Windows version of Heb12](https://drive.google.com/open?id=1DVAs3tqKXHSrvxKar7DlOyPex3PCiVDb).
+[Download the Windows version of Heb12](https://github.com/heb12/heb12/releases/download/v0.2.0/Heb12.Bible.Setup.0.2.0.exe).
 
 Note: If you use McAfee anti-malware, the program might not install. This is a known issue and we are working on it.
 
 ### Linux
-There are four different ways to install it on Linux.
+There are three different ways to install it on Linux.
 
 - .deb
 - .rpm
 - .AppImage
-- Snap
 
 The .deb file is used for Debian based distributions. If you use any of the distributions listed below, use the .deb package.
 
@@ -62,6 +61,4 @@ The .rpm file is used for Red Hat based distributions.
 
 The .AppImage file can be run on all Linux distributions.
 
-The Snap package can be installed on any distribution with the `snapd` package installed. There are some benefits for using it. You get automatic updates, and you can choose to install it from different channels. The edge channel gets updated every time we improve the code (which can be unstable!), the beta channel gets updated for every release that is not quite done. The normal channel (stable) is the official releases of the program.
-
-Install the program via Snap by running this: `sudo snap install heb12 --beta`.
+Get the files for Linux [here](https://github.com/heb12/heb12/releases).

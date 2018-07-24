@@ -1,5 +1,5 @@
-# Heb12 Bible Apps
-A project to make a usable cross-platform Bible system.
+# Heb12 Ministries
+A project to make a cross-platform Bible system.
 
 Hebrews 4:12:
   For the word of God is living and active and sharper than any double-edged sword, piercing even to the point of dividing soul from spirit, and joints from marrow; it is able to judge the desires and thoughts of the heart.
@@ -31,6 +31,9 @@ Here are some ways you can stay updated with the development of our apps.
 
 ### GitHub
 We have a [GitHub](https://github.com/heb12) setup for our apps. It is where we work and talk about the program. Here you can view the development of the program, study the documentation, and even help us if you want.
+
+### GitLab
+We are also on [GitLab](https://gitlab.com/heb12), We will create any new projects there (current ones will stay on GitHub for the time being). 
 
 ### Twitter
 MasterOfTheTiger often posts information about the progress of the program on Twitter. You can follow [MasterOfTheTiger on Twitter](https://twitter.com/MasterOTheTiger) or follow the tag #heb12.
