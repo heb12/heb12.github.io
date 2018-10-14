@@ -22,7 +22,7 @@ Our apps will always be free (libre) and open source programs. Which means that 
 Most importantly, we want the programs to honor Jesus through the work we do. Jesus gave us our talents, and we are using them to honor Him.
 
 ## Use our Products
-You can try out our [online alpha](http://mott.x10host.com/heb12/bible.php) if you want. It is the project that we are currently working on.
+We are working on the online version in PHP.
 
 Go to the [Heb12 desktop](desktop) page for more information on the desktop program. 
 
