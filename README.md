@@ -21,10 +21,12 @@ Our apps will always be free (libre) and open source programs. Which means that 
 
 Most importantly, we want the programs to honor Jesus through the work we do. Jesus gave us our talents, and we are using them to honor Him.
 
-## Use our Products
-We are working on the online version in PHP.
+## Use Heb12's Bible Apps
+We are working on the online version in PHP (progress stalled).
 
 Go to the [Heb12 desktop](desktop) page for more information on the desktop program. 
+
+Go to the [Heb12 Mobile](heb12-mobile) page for more information on our Android app.
 
 ## Stay Updated
 Here are some ways you can stay updated with the development of our apps.
