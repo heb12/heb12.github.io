@@ -10,7 +10,7 @@ Welcome to the new website for Heb12. Our goal is to make a usable cross-platfor
 - Finish our desktop program (complete for use now)
 - Make a usable online version (progress stalled)
 - Make a backend to our systems that allows synchronization between different devices (developer needed)
-- Make an Android app (almost ready for use)
+- Make an Android app (almost ready for release)
 - Make a Windows Store App (not started)
 
 Some of those will require a lot of work and perseverance. We probably will not be able to finish them all, but we will at least make a desktop program and an online version. It would be great if we had a backend, and that will come next.
