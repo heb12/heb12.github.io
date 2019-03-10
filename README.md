@@ -26,7 +26,7 @@ We are working on the online version in PHP (progress stalled).
 
 Go to the [Heb12 desktop](desktop) page for more information on the desktop program. 
 
-Go to the [Heb12 Mobile](heb12-mobile) page for more information on our Android app.
+Go to the [Heb12 Mobile](https://heb12.ml/mobile/) page for more information on our Android app.
 
 ## Stay Updated
 Here are some ways you can stay updated with the development of our apps.
