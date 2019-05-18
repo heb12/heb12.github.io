@@ -16,5 +16,3 @@ And:
 
 Exodus 20:11
 > For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.
-
-- Suffering is not caused by lack of faith, but it is for strengthening and building up our faith even more. I.e Word of Faith
