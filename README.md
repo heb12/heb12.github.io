@@ -43,12 +43,6 @@ MasterOfTheTiger often posts information about the progress of the program on Ma
 ### Diaspora*
 [Heb12 is on Diaspora](https://diasp.org/u/heb12). There we post updates on the progress of Heb12 more often than on any other platform. Either follow Heb12 on Diaspora, and/or follow the tag #heb12. 
 
-### Gitter (check occasionally)
-You can talk about Heb12 on [our Gitter chatroom](https://gitter.im/heb12/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link). We also will work on development there.
-
-### Email List (inactive)
-If you want to get the occasional email update from us, sign up [here](http://eepurl.com/drH8Kb).
-
 ## Beliefs
 We have a believe statement [here](https://heb12.ml/beliefs). It describes what Heb12 believes about the Bible.
 
