@@ -3,7 +3,7 @@ Heb12 Desktop is a program for Windows and Linux that allows you to easily read 
 
 ![Heb12 Desktop Screenshot](img/example1.png "Heb12 Desktop opened to Hebrews chapter 12")
 
-It is currently under development and there is no official release yet. The first version (1.0) will be released in the last two weeks of April 2018.
+The latest release of Heb12 Desktop is version 0.3.0, and version 0.4.0 will be released soon.
 
 ## Screenshots
 Here are some screenshots of Heb12 Desktop.
