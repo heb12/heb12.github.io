@@ -35,7 +35,7 @@ Here are some ways you can stay updated with the development of our apps.
 We have a [GitHub](https://github.com/heb12) setup for our apps. It is where we work and talk about the program. Here you can view the development of the program, study the documentation, and even help us if you want.
 
 ### There's Code
-MasterOfTheTiger set up a Gitea site at [code.theres.life](https://code.theres.life/). We will create any new projects there (current ones will stay on GitHub for the time being).
+MasterOfTheTiger set up a Gitea site at [code.theres.life/heb12](https://code.theres.life/heb12). We will create any new projects there (current ones will stay on GitHub for the time being).
 
 ### Mastodon
 MasterOfTheTiger often posts information about the progress of the program on Mastodon. You can follow [MasterOfTheTiger on Mastodon](https://theres.life/@masterofthetiger) and/or follow the tag #heb12. If you want a lot of information of development while it is happening, but you are not very technically inclined, this is the best way to keep up with Heb12. 
