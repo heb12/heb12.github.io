@@ -12,5 +12,5 @@ AmazingMech2418 works with the front-end development. He was the second person t
 ## Myeducate (quit)
 Myeducate worked mostly with back-end development, like the server for the Bible translations, but did not have time for it, so he quit.
 
-## Pufflegamerz
-Works with the Android app.
+## Petabyte Studios
+Petabyte Studios started and maintains the Heb12 Mobile Android app. He also works on other misc projects.
