@@ -1,3 +1,4 @@
+*Note: This is the old website. The new one is located here: http://heb12.com/ and the code here: https://code.theres.life/Heb12/website
 # Heb12 Ministries
 A project to make a cross-platform Bible system.
 
