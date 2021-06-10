@@ -1,4 +1,4 @@
-*Note: This is the old website. The new one is located here: http://heb12.com/ and the code here: https://code.heb12.com/Heb12/heb12.com
+*Note: This is the old website. The new one is located here: [http://heb12.com/](http://heb12.com/) and the code here: [https://code.heb12.com/Heb12/heb12.com](https://code.heb12.com/Heb12/heb12.com)
 # Heb12 Ministries
 A project to make a cross-platform Bible system.
 
@@ -43,9 +43,6 @@ MasterOfTheTiger often posts information about the progress of the program on Ma
 
 ### Diaspora*
 [Heb12 is on Diaspora](https://diasp.org/u/heb12). There we post updates on the progress of Heb12 more often than on any other platform. Either follow Heb12 on Diaspora, and/or follow the tag #heb12. 
-
-## Beliefs
-We have a believe statement [here](https://heb12.ml/beliefs). It describes what Heb12 believes about the Bible.
 
 ## Privacy
 See our [privacy policy](privacy) for information about use of user information.
